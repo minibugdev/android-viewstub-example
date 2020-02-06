@@ -1,2 +1,2 @@
 ## Android ViewStub Example
-http://www.trydroid.com/2016/04/android-viewstub.html
+“[Android] ViewStub : Zero-sized view ‘เมื่อไรเขามา ฉันจะไป’” by Teeranai.P https://link.medium.com/sjqHG7riR3
